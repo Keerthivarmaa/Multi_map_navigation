@@ -1,0 +1,11 @@
+# Goal
+float64 x
+float64 y
+string target_map
+---
+# Result
+bool success
+string message
+---
+# Feedback
+string status
